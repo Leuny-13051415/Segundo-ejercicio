@@ -1,0 +1,48 @@
+
+body{
+  background-color: cornflowerblue;
+}
+
+
+
+#nav {
+    position: absolute;
+    left: 0;
+    width: 200px;
+    height: 800px;
+    background-color: whitesmoke;
+    color: black;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    padding: 10px;
+    margin: 5px;
+    border-bottom: 2px solid blue;
+    text-align: center;
+    border-radius: 8px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+   nav ul li:hover {
+    background-color: darkred;
+  }
+
+
+img{
+ width: 30px;
+ border-radius: 19px;
+  position: relative;
+ 
+}
+  
+ 
